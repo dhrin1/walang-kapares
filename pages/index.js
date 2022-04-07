@@ -16,7 +16,7 @@ export default function Home() {
                       <h2 className="text-3xl font-semibold text-orange-500 dark:text-orange-500 lg:text-5xl inline-flex items-center gap-3 uppercase">Walang Ka-Pares <span className="text-orange-500 dark:text-orange-600"><CgBowl size={40} /></span></h2>
                       <p className="text-gray-800 dark:text-white font-medium" >Restobar and Grill</p>
                     
-                      <p className="mt-2 text-sm text-gray-500 dark:text-gray-400 lg:text-base">The meals you love, delivered with care and The meals you love, delivered with care and The meals you love, delivered with care and </p>
+                      <p className="mt-2 text-sm text-gray-500 dark:text-gray-400 lg:text-base">The meals you love, delivered with care and Walang Ka-Pares Restobar and Grill Official Website </p>
 
                       <div className="flex flex-col mt-6 space-y-3 lg:space-y-0 lg:flex-row">
                           <Link href="/order"><button  className="block px-3 py-2 text-sm font-semibold text-center text-white transition-colors duration-200 transform bg-orange-500 rounded-md hover:bg-orange-700">Order Now</button></Link>

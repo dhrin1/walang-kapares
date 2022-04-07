@@ -9,7 +9,7 @@ export default function Home() {
     <div>
 
       {/* hero */}
-      <div className="bg-white dark:bg-gray-900 mt-16 md:mt-5">
+      <div className="bg-white dark:bg-gray-900 mt-24 md:mt-5">
           <div className="lg:flex">
               <div className="flex items-center justify-center w-full px-6 py-8 lg:h-[32rem] lg:w-1/2">
                   <div className="max-w-xl">

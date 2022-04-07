@@ -1,9 +1,11 @@
-
+import Image from 'next/image'
 
 export default function signin() {
     return (
           <div className="w-full max-w-sm p-6 m-auto bg-white rounded-md shadow-md dark:bg-gray-800 mt-24">
-              <h1 className="text-3xl font-semibold text-center text-gray-700 dark:text-white">Brand</h1>
+              <h1 className="text-3xl font-semibold text-center flex justify-center text-gray-700 dark:text-white">
+                  <img src={'/asset/logo-walang-kapares.png'} className="h-24 w-24"  />
+              </h1>
   
               <form className="mt-6">
                   <div>
